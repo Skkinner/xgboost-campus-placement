@@ -146,9 +146,9 @@ The notebook downloads the dataset automatically with `kagglehub`. You may need 
 | Name | GitHub |
 |---|---|
 | Fahad Al-Nahi | [@Skkinner](https://github.com/Skkinner) |
-| [Member 2] | [@username](https://github.com/username) |
-| [Member 3] | [@username](https://github.com/username) |
-| [Member 4] | [@username](https://github.com/username) |
+| Basma Almuntaser | [@Basmaalmuntaser](https://github.com/username) |
+| Raghad Alharbi | [@username](https://github.com/username) |
+| Reham | [@username](https://github.com/username) |
 
 ---
 
